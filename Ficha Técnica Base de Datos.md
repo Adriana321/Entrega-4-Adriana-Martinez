@@ -10,10 +10,10 @@
 
 ## Variables Incorporadas
 
-| Varible                                    | Descripción                                                          |
+| Varible                                    | Descripción                                                                 |
 |--------------------------------------------|-----------------------------------------------------------------------------|
-| Nombres de las jugadoras                   | Edad de las jugadoras                       |
-                                     |
+| Nombres de las jugadoras                   | Edad de las jugadoras                                                       |
+                          
 
 
 ## Comentarios sobre la Base de Datos
